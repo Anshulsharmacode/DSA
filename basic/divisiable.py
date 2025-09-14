@@ -38,5 +38,8 @@ for i in range (1 , int(sqrt(num))+1):
         result.append(i)
         if num //i != i:
             result.append(num //i)
-result.sort()
+result.sort()  ##tc- o(nlogn )
 print(result)
+
+# tc- o(sqr(n))+ O(nlog)
+# sc- O(k)
