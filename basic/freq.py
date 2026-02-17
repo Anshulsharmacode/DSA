@@ -15,4 +15,4 @@ result = dict()
 for i in range (0 ,len(nums)):
     result [nums[i]]= result.get(nums[i],0)+1
 
-print(result)
+print(result) 
