@@ -4,6 +4,11 @@ k = 3
 
 
 
+
+
+
+
+
 #brute for solution
 # lenth= len(nums)
 # for i in range(0, k):
